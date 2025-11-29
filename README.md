@@ -3,16 +3,15 @@ Technical Dictionary (Java Swing)
 A simple and fast Java Swing–based Technical Dictionary that allows users to search, view, and add technical terms. Includes autocomplete suggestions, persistent storage, and a clean UI.
 
 Project Structure
-TechnicalDictionary/
-├─ data/
-│   └─ dictionary.txt
-├─ src/
-│   ├─ app/
-│   │   └─ DictionaryApp.java
-│   ├─ manager/
-│   │   └─ DictionaryManager.java
-│   └─ util/
-│       └─ FileUtil.java
+
+TechnicalDictionary/data/dictionary.txt
+
+TechnicalDictionary/src/app/DictionaryApp.java
+
+TechnicalDictionary/src/manager/DictionaryManager.java
+
+TechnicalDictionary/src/util/FileUtil.java
+
 
 Features
 
