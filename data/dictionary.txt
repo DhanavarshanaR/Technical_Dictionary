@@ -1,0 +1,348 @@
+Algorithm: A step-by-step procedure or set of rules designed to perform a specific task or solve a particular problem in a finite amount of time.
+Array: A collection of elements of the same type stored in contiguous memory locations, accessible using an index.
+Artificial Intelligence: A branch of computer science that aims to create machines capable of intelligent behavior, including learning, reasoning, and problem-solving.
+Binary Search: An efficient algorithm for finding an item from a sorted list by repeatedly dividing the search interval in half.
+Binary Tree: A hierarchical data structure in which each node has at most two children, commonly referred to as left and right.
+Bit: The smallest unit of data in computing, representing a value of either 0 or 1.
+Boolean: A data type that has two possible values, true or false, often used for conditional statements.
+Bubble Sort: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+Class: A blueprint or template in object-oriented programming that defines the properties (fields) and behaviors (methods) of objects.
+Constructor: A special method in a class used to initialize objects when they are created.
+Encapsulation: The concept of restricting direct access to some of an object's components and protecting the internal state.
+Exception: An event that occurs during the execution of a program that disrupts the normal flow of instructions.
+Framework: A platform or foundation that provides pre-built components and tools to help developers build applications efficiently.
+Function: A block of code that performs a specific task and can be called from different parts of a program.
+Graph: A collection of nodes (vertices) connected by edges, often used to represent relationships or networks.
+Hash Table: A data structure that stores key-value pairs for efficient retrieval using a hash function.
+Heap: A specialized tree-based data structure that satisfies the heap property, often used to implement priority queues.
+HTTP: Hypertext Transfer Protocol, the foundation of data communication on the World Wide Web.
+IDE: Integrated Development Environment, a software application that provides comprehensive facilities to programmers for development.
+Inheritance: A mechanism in object-oriented programming where a class can acquire properties and behaviors of another class.
+Integer: A data type representing whole numbers without fractional parts.
+Interface: A reference type in Java and other languages that defines abstract methods without implementing them.
+JSON: JavaScript Object Notation, a lightweight format for storing and exchanging data between servers and clients.
+Linked List: A linear data structure where elements are stored in nodes, each containing data and a reference to the next node.
+Loop: A programming construct that repeats a block of code multiple times based on a condition.
+Machine Learning: A subset of AI that enables systems to learn and improve from experience without being explicitly programmed.
+Method: A function defined within a class that describes the behavior of an object.
+Node: A basic unit of a data structure, such as a linked list or tree, containing data and references.
+Object: An instance of a class containing both data and behavior.
+Operator: A symbol that performs a specific operation on one or more operands in programming.
+Package: A namespace in Java or other languages that organizes related classes and interfaces.
+Polymorphism: The ability of objects of different classes to be treated as objects of a common superclass, typically through method overriding or interfaces.
+Queue: A linear data structure that follows First-In-First-Out (FIFO) order for adding and removing elements.
+Recursion: A programming technique in which a function calls itself directly or indirectly to solve a problem.
+Reference: A variable that holds the memory address of an object rather than the object itself.
+Regex: Regular Expression, a sequence of characters defining a search pattern for text.
+REST: Representational State Transfer, an architectural style for designing networked applications using HTTP.
+Runtime: The period during which a program is executing on a computer.
+Stack: A linear data structure that follows Last-In-First-Out (LIFO) order for adding and removing elements.
+String: A sequence of characters used to represent text in programming languages.
+Syntax: The set of rules that defines the combinations of symbols that are considered valid in a programming language.
+Thread: The smallest unit of execution within a process that can run concurrently.
+Tree: A hierarchical data structure consisting of nodes connected by edges, with one node as the root.
+Variable: A storage location in memory associated with a symbolic name used to hold data.
+Version Control: A system that records changes to a file or set of files over time, allowing rollback and collaboration.
+Virtual Machine: A software emulation of a physical computer that runs programs like a real machine.
+XML: eXtensible Markup Language, a format for storing and transporting structured data.
+ArrayList: A resizable array implementation in Java that allows dynamic insertion, deletion, and access of elements.
+HashMap: A collection class in Java that stores key-value pairs and allows fast retrieval using keys.
+Constructor Overloading: Defining multiple constructors in a class with different parameters for flexibility in object creation.
+Exception Handling: Mechanisms in programming to handle runtime errors and maintain normal program flow.
+Dependency Injection: A design pattern where an object receives its dependencies from an external source rather than creating them itself.
+Binary Heap: A complete binary tree where each parent node is greater than or equal to its children in a max-heap, or less in a min-heap.
+Big Data: Extremely large datasets that require specialized tools and techniques for storage, processing, and analysis.
+Binary Search Tree: A tree data structure in which each node has at most two children and left child values are less than parent, right child values are greater.
+Boolean Algebra: A branch of mathematics dealing with true/false values and logical operations.
+Bootstrap: A popular front-end framework for developing responsive web pages quickly.
+Branching: In version control, creating separate lines of development to work independently from the main codebase.
+Byte: A unit of digital information typically consisting of 8 bits.
+Cache: A small, faster memory storage that stores frequently accessed data to improve performance.
+Class Variable: A variable defined in a class for which all instances share the same value.
+CLI: Command-Line Interface, a text-based interface to interact with software using commands.
+Cloud Computing: Delivery of computing services over the internet including storage, databases, and software.
+Code Smell: A symptom in the source code indicating a potential problem or weakness in design.
+Cohesion: The degree to which elements of a module belong together and serve a single purpose.
+Collision: In hashing, when two keys hash to the same index, requiring a strategy to resolve.
+Compilation: The process of converting source code into machine code or bytecode.
+Concurrency: The ability of a system to handle multiple tasks simultaneously.
+Constructor Chaining: Calling one constructor from another in the same class to avoid code duplication.
+CRUD: Create, Read, Update, Delete – the basic operations of persistent storage.
+Data Structure: A way of organizing and storing data for efficient access and modification.
+Database: A structured collection of data stored electronically for easy retrieval and management.
+Deadlock: A situation in concurrent programming where two or more threads are waiting indefinitely for resources held by each other.
+Decorator Pattern: A design pattern that dynamically adds behavior to objects without modifying their code.
+Deep Learning: A subset of machine learning using neural networks with many layers for complex tasks.
+Default Constructor: A constructor with no parameters automatically provided by the compiler if none is defined.
+Dependency Graph: A representation of dependencies among modules or components in a system.
+Deserialization: The process of converting a byte stream back into an object.
+Deterministic Algorithm: An algorithm that produces the same output for the same input every time it runs.
+Dictionary: A collection of key-value pairs where each key maps to a specific value.
+DNS: Domain Name System, the system that translates domain names into IP addresses.
+Edge: In graph theory, a connection between two nodes representing a relationship.
+Encapsulation Violation: Accessing private or protected members of a class from outside, breaking encapsulation rules.
+Endianness: The order in which bytes are stored in memory (big-endian or little-endian).
+Exception Propagation: The process of passing an exception up the call stack until it is handled.
+Executable: A file that contains machine code ready to be executed by the computer.
+Facade Pattern: A design pattern that provides a simplified interface to a complex subsystem.
+Factory Method: A design pattern that defines an interface for creating objects but lets subclasses decide which class to instantiate.
+File System: A method and data structure that an operating system uses to control how data is stored and retrieved.
+Firewall: A network security device or software that monitors and controls incoming and outgoing network traffic.
+Floating Point: A numerical data type used to represent real numbers with fractional parts.
+Flyweight Pattern: A design pattern used to minimize memory usage by sharing common parts of objects.
+Function Overloading: Defining multiple functions with the same name but different parameter lists.
+Garbage Collection: Automatic memory management that frees objects no longer in use.
+Graph Traversal: The process of visiting all nodes in a graph systematically, such as BFS or DFS.
+GUI: Graphical User Interface, allowing users to interact with software visually.
+Hash Function: A function that converts input data into a fixed-size numerical value used for indexing.
+Hash Set: A collection that stores unique elements using hashing for fast lookup.
+Heap Sort: A comparison-based sorting technique using a binary heap data structure.
+HTML: Hypertext Markup Language, the standard markup language for creating web pages.
+HTTP Request: A message sent by a client to a server to initiate an action or retrieve data.
+HTTP Response: A message sent by a server to a client in reply to an HTTP request.
+IDE Plugin: A software component that adds specific features to an Integrated Development Environment.
+Immutable Object: An object whose state cannot be modified after it is created.
+Import Statement: A line in code used to bring in classes or packages from libraries or modules.
+Index: A position or key used to access elements in arrays, lists, or databases.
+Inheritance Hierarchy: The organizational structure showing how classes inherit from one another.
+Inner Class: A class defined within another class, often used for logical grouping or encapsulation.
+Input Stream: A sequence of data read from a source such as a file or network connection.
+Integer Overflow: A condition where an arithmetic operation exceeds the maximum value a data type can hold.
+Interface Segregation: A principle in SOLID design that recommends splitting interfaces to avoid forcing classes to implement unused methods.
+Iterator: An object that allows sequential traversal of elements in a collection.
+JSON Parsing: The process of converting JSON data into usable program objects.
+Java Virtual Machine: The runtime engine that executes Java bytecode on a host machine.
+JDBC: Java Database Connectivity, an API for connecting and executing queries on databases from Java programs.
+JUnit: A framework for writing and running unit tests in Java.
+Key: An attribute used to identify or access a specific value in data structures such as maps or databases.
+Keyword: A reserved word in a programming language that has a predefined meaning.
+Lambda Expression: A concise way to represent an anonymous function or method in programming.
+Layered Architecture: A software design pattern that organizes a system into layers with specific responsibilities.
+Linked HashMap: A Java data structure that maintains insertion order while providing hash-based access.
+Linked List Node: An individual element in a linked list containing data and a reference to the next node.
+Load Balancer: A device or software that distributes network or application traffic across multiple servers.
+Local Variable: A variable declared within a method or block and accessible only within that scope.
+Loop Invariant: A condition that holds true before and after each iteration of a loop.
+Machine Code: Binary instructions that a computer's CPU can execute directly.
+Main Method: The entry point of a Java application where execution begins.
+Map: A collection of key-value pairs that associates unique keys with specific values.
+Merge Sort: A divide-and-conquer sorting algorithm that divides the list into halves, sorts them, and merges them.
+Method Overriding: A feature in object-oriented programming where a subclass provides a specific implementation of a method defined in its superclass.
+Model-View-Controller: A design pattern separating application logic (Model), user interface (View), and input control (Controller).
+Module: A self-contained component or unit of code that encapsulates functionality.
+Multithreading: Running multiple threads concurrently to perform tasks simultaneously.
+Mutex: A mutual exclusion object used to prevent simultaneous access to a shared resource by multiple threads.
+Normalization: The process of organizing database data to reduce redundancy and improve integrity.
+Node Depth: The number of edges from the root node to a particular node in a tree.
+Null Pointer: A pointer that does not reference any object or memory location.
+Observer Pattern: A design pattern in which an object (subject) notifies observers automatically of state changes.
+Object-Oriented Programming: A programming paradigm based on the concept of objects containing data and behavior.
+Opcode: An operation code that specifies the operation to be performed by machine code instructions.
+Overloading: Defining multiple methods or operators with the same name but different parameters.
+Package Manager: A tool that automates installation, upgrading, and removal of software packages.
+Parameter: A variable passed into a function or method to provide input for processing.
+Polymorphic Method: A method that can take different forms depending on the object calling it.
+Priority Queue: A data structure where elements are dequeued based on priority rather than insertion order.
+Process: A program in execution, including its current state, memory, and resources.
+Protocol: A set of rules defining communication between devices over a network.
+Proxy Pattern: A design pattern that provides a surrogate or placeholder for another object to control access.
+Queue Interface: An interface representing a data structure that follows First-In-First-Out (FIFO) behavior.
+Recursion Depth: The number of times a recursive function has called itself during execution.
+Red-Black Tree: A self-balancing binary search tree with specific properties to maintain balance.
+Regression Testing: Testing existing software to ensure new changes do not break previously working functionality.
+Repository: A central location where data, code, or packages are stored and maintained.
+RESTful API: An API that adheres to REST principles, using HTTP methods to access and manipulate resources.
+Runtime Environment: The environment in which a program or application executes, including memory, system resources, and libraries.
+SAX Parser: A parser for XML documents that reads sequentially and triggers events, efficient for large files.
+Serialization: The process of converting an object into a byte stream for storage or transmission.
+Server: A computer or program that provides services or resources to clients over a network.
+Servlet: A Java program that runs on a server to handle requests and generate responses for web applications.
+Shell: A command-line interface used to interact with the operating system.
+Singleton Pattern: A design pattern that restricts the instantiation of a class to one object.
+Stack Overflow: An error that occurs when the call stack pointer exceeds the stack bound, often due to excessive recursion.
+Stack Pointer: A processor register that tracks the top of the stack in memory.
+Statement: A single line of code that performs an action or expresses a command in a program.
+Static Method: A method associated with the class itself rather than an instance of the class.
+String Buffer: A mutable sequence of characters used to manipulate strings efficiently.
+String Builder: A mutable class for building and modifying strings without creating multiple immutable objects.
+Syntax Error: An error in the code that violates the grammar rules of the programming language.
+TCP: Transmission Control Protocol, a core protocol for reliable data transmission over networks.
+Thread Safety: The property of code functioning correctly when accessed by multiple threads simultaneously.
+Token: A sequence of characters in source code identified as a meaningful unit, such as keywords or identifiers.
+Tree Traversal: The process of visiting all nodes in a tree data structure in a specific order.
+Tuple: An ordered collection of elements, typically immutable, used to store multiple values together.
+Type Casting: Converting a variable from one data type to another explicitly or implicitly.
+Unicode: A universal character encoding standard used to represent text from multiple languages.
+Unit Testing: The process of testing individual components or functions of software for correctness.
+URL: Uniform Resource Locator, the address used to access resources on the internet.
+User Interface: The means by which a user interacts with a program or system, such as GUI or CLI.
+Variable Scope: The context in which a variable is accessible in a program.
+Vector: A dynamic array in Java that can grow or shrink in size and provides synchronized access.
+Version Control System: A tool for managing changes to source code and collaborating with others.
+Virtual Function: A function in object-oriented programming that can be overridden in derived classes.
+Virtual Memory: A memory management technique that gives an application the impression of a large contiguous memory.
+Void: A keyword indicating that a method does not return any value.
+Web Service: A software system designed to support interoperable machine-to-machine communication over a network.
+Wildcard: A symbol or character used to represent one or more other characters in patterns or queries.
+Wrapper Class: A class that encapsulates a primitive data type in an object, e.g., Integer for int.
+XML Schema: A language used to define the structure, content, and data types of XML documents.
+XPath: A language used for navigating and querying elements and attributes in XML documents.
+YAML: A human-readable data serialization format often used for configuration files.
+Zero-Day: A software vulnerability that is unknown to those who should be interested in its mitigation.
+Zero-Based Indexing: Counting elements in an array or list starting from 0 rather than 1.
+Abstract Class: A class that cannot be instantiated and may contain abstract methods to be implemented by subclasses.
+Access Modifier: A keyword in programming that sets the visibility of classes, methods, or variables.
+Active Record: A design pattern where an object wraps a row in a database table and provides methods for database access.
+Actor Model: A concurrent computation model where actors are the fundamental units of computation communicating via messages.
+Adapter Pattern: A design pattern that allows incompatible interfaces to work together by converting one interface to another.
+Agile Methodology: A software development approach emphasizing iterative development, collaboration, and flexibility.
+API Endpoint: A specific URL or URI in a web API where clients can access resources or services.
+Asynchronous Programming: A programming paradigm where tasks execute independently of the main program flow.
+Atomic Operation: An operation that completes entirely or not at all, ensuring consistency in concurrent environments.
+Backpropagation: An algorithm used to train neural networks by propagating error backward to adjust weights.
+Big-O Notation: A mathematical notation used to describe the upper bound of an algorithm’s runtime or space complexity.
+Bootstrap Method: A technique in statistics or software to resample or dynamically initialize resources.
+Breadth-First Search: A graph traversal algorithm that explores nodes level by level.
+Buffer Overflow: A situation where more data is written to a buffer than it can hold, causing memory corruption.
+Callback Function: A function passed as an argument to another function to be executed later.
+Caching Strategy: A method used to store frequently accessed data in fast storage to improve performance.
+Central Processing Unit: The main part of a computer that performs arithmetic, logic, control, and input/output operations.
+Circular Queue: A linear data structure that treats the storage as circular, reusing empty spaces efficiently.
+Client-Server Model: A network architecture where clients request resources and servers provide them.
+Cloning: Creating a copy of an object with the same state as the original.
+Code Review: The systematic examination of source code by developers to identify mistakes and improve quality.
+Cohort Analysis: An analytical technique to study behavior patterns of groups with shared characteristics.
+Command Pattern: A design pattern that encapsulates a request as an object, allowing parameterization and queuing.
+Concurrency Control: Mechanisms to ensure correct execution of concurrent operations in databases or programs.
+Content Management System: Software that facilitates creating, editing, and managing digital content.
+Continuous Integration: A development practice of frequently integrating code changes into a shared repository.
+Control Flow: The order in which individual instructions, statements, or function calls are executed in a program.
+Data Abstraction: The concept of exposing only essential features while hiding implementation details.
+Data Mining: The process of discovering patterns and knowledge from large datasets using statistical and computational techniques.
+Data Warehouse: A centralized repository for storing and analyzing large volumes of structured data.
+Database Index: A data structure that improves the speed of data retrieval operations on a database table.
+Dead Code: Sections of code that are never executed and have no effect on program behavior.
+Decorator Function: A function that extends or modifies the behavior of another function dynamically.
+Dependency Graph Analysis: The process of evaluating relationships and dependencies among components in a system.
+Depth-First Search: A graph traversal algorithm that explores as far as possible along each branch before backtracking.
+Design Pattern: A reusable solution to a commonly occurring problem in software design.
+Digital Signature: A cryptographic technique used to verify the authenticity and integrity of digital data.
+Distributed System: A system in which components located on networked computers communicate and coordinate actions.
+Dynamic Binding: The process of resolving a method call at runtime instead of compile-time.
+Dynamic Memory Allocation: Allocating memory to a program at runtime using mechanisms such as malloc or new.
+Edge Computing: A computing paradigm where data processing is performed near the data source instead of a centralized server.
+Encapsulation Principle: The object-oriented principle of restricting direct access to object data and providing controlled interfaces.
+Entity Relationship Diagram: A visual representation of entities and their relationships in a database.
+Enumeration: A distinct data type consisting of a set of named constants.
+Event-Driven Programming: A programming paradigm where the flow is determined by events such as user actions or sensor outputs.
+Exception Class: A class that defines a type of exception that can be thrown and caught in a program.
+Expression Tree: A binary tree representing mathematical expressions where leaves are operands and internal nodes are operators.
+Factory Pattern: A design pattern used to create objects without specifying the exact class.
+Field: A variable within a class that holds data or state information.
+Finite State Machine: A computational model that transitions between a finite number of states based on inputs.
+Firewall Rule: A specific instruction defining what network traffic is allowed or blocked by a firewall.
+Floating-Point Arithmetic: Mathematical operations involving numbers with fractional parts.
+Form Factor: The physical size, shape, and layout of hardware components.
+Garbage Collector: A runtime system that automatically frees memory occupied by objects no longer in use.
+Gateway: A network node that serves as an entry point to another network.
+GraphQL: A query language for APIs that allows clients to request exactly the data they need.
+Hash Collision: When two different keys produce the same hash value in a hash table.
+Heap Memory: Memory used for dynamic allocation, managed during program execution.
+Host: A computer or device connected to a network that provides or consumes services.
+Hyperlink: A reference in a document that allows navigation to another document or resource.
+Hypervisor: Software that creates and manages virtual machines on a host system.
+Immutable List: A list whose elements cannot be changed after creation.
+Indexing: The process of creating data structures that enable fast search and retrieval.
+Inheritance Tree: A hierarchy showing relationships between classes using inheritance.
+Interface Implementation: The act of providing concrete code for the abstract methods defined in an interface.
+IP Address: A unique string of numbers assigned to each device connected to a network.
+Iteration: Repeated execution of a block of code, often using loops.
+JSON Object: A collection of key-value pairs in JSON format representing structured data.
+JSON Array: An ordered collection of values in JSON format.
+Key-Value Store: A database that stores data as a collection of key-value pairs.
+Lazy Initialization: Deferring the creation of an object until it is first needed.
+Lambda Function: A short, anonymous function defined inline with minimal syntax.
+Layer: A logical separation in software architecture to organize responsibilities.
+Linked List Traversal: The process of visiting each node in a linked list sequentially.
+Load Testing: Evaluating system performance by simulating high levels of user or transaction activity.
+Localhost: The standard hostname for a computer that refers to itself in networking.
+Lock: A mechanism to control access to a shared resource in concurrent programming.
+Logging: Recording runtime events or messages to monitor and debug applications.
+Loop Unrolling: An optimization technique to reduce loop overhead and improve performance.
+Machine Learning Model: A mathematical model trained to recognize patterns and make predictions from data.
+Map-Reduce: A programming model for processing large datasets in parallel across distributed systems.
+Memory Leak: A condition where memory is allocated but not released, leading to resource exhaustion.
+Message Queue: A form of asynchronous communication where messages are stored until processed.
+Method Signature: The method name along with its parameter types that uniquely identifies it in a class.
+Middleware: Software that connects different applications, services, or components to enable communication.
+Mock Object: A simulated object used in testing to mimic the behavior of real objects.
+Multicast: A network communication method where data is sent from one sender to multiple receivers.
+Multilevel Queue: A scheduling algorithm that uses multiple queues with different priorities for processes.
+Namespace: A container that holds a set of identifiers to avoid naming conflicts.
+Native Code: Machine-level code executed directly by the CPU without interpretation or virtual machine.
+Neural Network: A computational model inspired by the human brain, used for pattern recognition and AI.
+Node.js: A JavaScript runtime environment that allows server-side execution of code.
+Normalization Form: A standardized way of representing text or characters for consistency in processing.
+Object Pool: A design pattern that reuses objects from a fixed pool instead of creating new ones repeatedly.
+Observer: An object that gets notified of state changes in another object, used in the observer pattern.
+Off-By-One Error: A common programming error where a loop iterates one time too many or too few.
+Open Source: Software whose source code is publicly available for modification and redistribution.
+ORM: Object-Relational Mapping, a technique to map objects in code to database tables.
+Overfitting: When a machine learning model learns the training data too well, failing to generalize to new data.
+Packet: A unit of data transmitted over a network.
+Parameter Passing: The method by which arguments are passed to functions or methods.
+Parallel Computing: Performing multiple computations simultaneously to speed up processing.
+Parse Tree: A tree representation showing the syntactic structure of source code.
+Polymorphic Behavior: The ability of different classes to respond differently to the same method call.
+Port: A logical communication endpoint in a computer network.
+Procedure: A set of instructions packaged as a unit to perform a specific task.
+Process Scheduling: The method by which an operating system decides the order of process execution.
+Program Counter: A CPU register that keeps track of the next instruction to execute.
+Protocol Buffer: A language-neutral format for serializing structured data efficiently.
+Proxy Server: A server that acts as an intermediary for requests from clients seeking resources.
+Queue Overflow: A condition when more items are added to a queue than its maximum capacity allows.
+Quick Sort: A divide-and-conquer sorting algorithm that partitions the list and recursively sorts partitions.
+Random Access Memory: Volatile memory that allows data to be read and written quickly in any order.
+Recursion Stack: The call stack created when recursive functions call themselves.
+Regular Expression: A sequence of characters defining a search pattern for text.
+Remote Procedure Call: A protocol that allows a program to execute a procedure on another machine.
+Repository Pattern: A design pattern that abstracts database access logic behind a collection-like interface.
+Resource Leak: When a program fails to release system resources properly.
+Response Time: The duration taken to respond to a request in computing systems.
+Routing Algorithm: An algorithm used to determine optimal paths for data transmission in networks.
+Runtime Error: An error that occurs while a program is running.
+Sandbox: A controlled environment used for testing or running untrusted code safely.
+Schema: The structure of a database or data format, defining fields, types, and constraints.
+Serialization Framework: A library or toolset to handle converting objects to/from a serial format.
+Service-Oriented Architecture: A design paradigm that structures applications as a set of services communicating over a network.
+Session: A semi-permanent interactive information exchange between two communicating systems.
+Singleton Instance: The single object instance created in a singleton design pattern.
+SOAP: Simple Object Access Protocol, a protocol for exchanging structured information in web services.
+Software Development Life Cycle: A process for planning, creating, testing, and deploying software systematically.
+Software Repository: A central location where software packages, code, or resources are stored and maintained.
+Source Control: Another term for version control, managing changes to source code.
+Stack Frame: A section of the stack containing function parameters, local variables, and return address.
+State Machine: A computational model describing a system that can be in one of a finite number of states.
+Static Variable: A variable associated with a class rather than any object instance.
+Stream: A sequence of data elements made available over time for processing.
+String Interpolation: The process of embedding variables or expressions directly into string literals.
+Structured Query Language: A language used to manage and manipulate relational databases.
+Subclass: A class that inherits from another class, also called a derived class.
+Syntax Tree: A tree representation of the syntactic structure of source code.
+TCP/IP: A suite of communication protocols used for the internet and similar networks.
+Template Method: A design pattern where a method defines a skeleton algorithm, allowing subclasses to override steps.
+Thread Pool: A collection of pre-instantiated threads ready to execute tasks concurrently.
+Tokenization: The process of splitting input text into smaller meaningful elements called tokens.
+Transactional Memory: A concurrency control mechanism that executes sequences of read/write operations atomically.
+Tree Node: An individual element of a tree containing data and references to child nodes.
+UDP: User Datagram Protocol, a communication protocol for low-latency, connectionless transmission.
+User Story: A short description of a software feature from the perspective of the user.
+Virtualization: The creation of a virtual version of hardware, operating systems, or network resources.
+Volatile Keyword: In programming, a keyword that indicates a variable may be modified asynchronously.
+Wrapper Method: A method that calls another method, often to add functionality or simplify usage.
+XML Parser: A program that reads XML documents and provides access to their content and structure.
+Yield Statement: A statement used in some languages to produce a value from a generator function.
+Zero Trust Security: A security model that requires strict verification for every user or device attempting to access resources.
+
+
+java: high level object oriented programming language
