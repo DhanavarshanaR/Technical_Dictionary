@@ -36,10 +36,13 @@ Technologies Used
 4)TreeMap for sorted dictionary storage
 
 How to Run
+
 Compile:
+
 javac src/app/DictionaryApp.java src/manager/DictionaryManager.java src/util/FileUtil.java -d out
 
 Run:
+
 java -cp out app.DictionaryApp
 
 Dictionary Format
@@ -52,4 +55,5 @@ Word: Definition
 Example:
 
 Algorithm: A step-by-step method to solve a problem.
+
 Array: A collection of items stored in contiguous memory locations.
